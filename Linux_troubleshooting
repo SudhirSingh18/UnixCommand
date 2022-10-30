@@ -1,0 +1,20 @@
+vmstat (virtual memory stats - memory, swap,cpu)
+
+unmount 
+resize2fs <logical vol path> 10G
+lvreduce -L 10G <logical vol path>
+
+cat /proc/net/bonding/bond0
+
+/etc/passwd
+
+Configuration management tool:
+- chef
+- Ansible
+- puppet
+- CFEngine
+
+repquota -a 
+
+YUM - Yellow dog Updater Modified
+
